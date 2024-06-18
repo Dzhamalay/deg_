@@ -1,0 +1,10 @@
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/CMakeFiles/main.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/CMakeFiles/edit_cache.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/CMakeFiles/rebuild_cache.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/src/CMakeFiles/A.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/src/CMakeFiles/B.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/src/CMakeFiles/edit_cache.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/src/CMakeFiles/rebuild_cache.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/tests/CMakeFiles/test_B.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/tests/CMakeFiles/edit_cache.dir
+/home/jamalay/Dzhamalay/zachet/12.06.24/build/tests/CMakeFiles/rebuild_cache.dir
